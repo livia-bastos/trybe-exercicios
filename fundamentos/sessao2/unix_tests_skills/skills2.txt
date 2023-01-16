@@ -1,0 +1,9 @@
+Internet
+Unix
+Bash
+
+maca
+banana
+ameixa
+abacaxi
+limao
